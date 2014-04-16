@@ -1,0 +1,3 @@
+pds_tree_homepage:
+    pattern:  /
+    defaults: { _controller: pdsTreeBundle:Default:index }

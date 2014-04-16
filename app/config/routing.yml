@@ -1,0 +1,4 @@
+pds_tree:
+    resource: "@pdsTreeBundle/Resources/config/routing.yml"
+    prefix:   /
+

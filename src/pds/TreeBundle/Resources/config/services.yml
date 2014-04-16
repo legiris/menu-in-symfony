@@ -1,0 +1,7 @@
+parameters:
+#    pds_tree.example.class: pds\TreeBundle\Example
+
+services:
+#    pds_tree.example:
+#        class: %pds_tree.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
